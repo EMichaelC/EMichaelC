@@ -8,12 +8,12 @@
 
 I am a full stack software engineer with 3 years of experience building innovative desktop and web applications. I am proficient in Python, TypeScript, and C++. I am deeply passionate about using technology to solve problems, and I continuously strive to improve my skills and create exceptional products. I qualified with a first-class master's degree in physics from Loughborough University in 2019.
 
-## Professional Projects I have contributed to:
+## Professional projects I have contributed to:
 
 - **Reva**: A DLOPS desktop application that streamlines training of deep learning models for CV tasks such as classification and object detection.
 - **Zene**: An inference engine for CV built in C++ that gained an innovation award from the Thai BOI.
 
-## Personal Projects
+## Personal projects
 
 - **AnalyseDocs.com**: A web application that utilizes semantic search and chat functionality to interact with documents via GPT.
 - **Other smaller projects**: Cryptocurrency price tracker, news scraper, and online store.
