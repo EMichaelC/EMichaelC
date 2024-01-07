@@ -6,7 +6,7 @@
 
 ## About Me
 
-Full stack developer with 4+ years of experience. Passionate about building with AI. I am proficient in Python and typescript. I continuously improve my skills to create exceptional products. I qualified with a first-class master's degree in physics from Loughborough University in 2019.
+As a Full Stack Developer with over four years of experience, I have a deep passion for crafting solutions using AI. My expertise lies in Python and TypeScript, and I am dedicated to honing my skills to deliver outstanding products. I earned a first-class Master's degree in Physics from Loughborough University in 2019, further solidifying my technical foundation.
 
 ## Professional projects I have contributed to:
 
