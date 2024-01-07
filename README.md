@@ -1,4 +1,4 @@
-# Ethan Connelly - Full Stack Dev
+# Ethan Connelly
 
 🌏 London/Bangkok | 📧 ethanmconnelly@gmail.com
 
