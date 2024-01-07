@@ -12,7 +12,7 @@ As a Full Stack Developer with over four years of experience, I have a deep pass
 
 - **Reva**: A DLOPS desktop application that streamlines training of deep learning models for CV tasks such as classification and object detection.
 - **Zene**: An inference engine for CV built in C++ that gained an innovation award from the Thai BOI.
-- **Bundle Builder**: Shopify app by Eight providing bundling options to thousands of merchants.
+- **Bundle Builder**: Shopify app by Eight providing bundling options to thousands of merchants and processing millions of dollars worth of orders per month.
 
 ## Personal projects
 
