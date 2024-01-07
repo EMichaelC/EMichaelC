@@ -6,7 +6,7 @@
 
 ## About Me
 
-Full stack software engineer with 4+ years of experience. Passionate about building with AI. I am proficient in Python and typescript. I continuously improve my skills to create exceptional products. I qualified with a first-class master's degree in physics from Loughborough University in 2019.
+Full stack developer with 4+ years of experience. Passionate about building with AI. I am proficient in Python and typescript. I continuously improve my skills to create exceptional products. I qualified with a first-class master's degree in physics from Loughborough University in 2019.
 
 ## Professional projects I have contributed to:
 
