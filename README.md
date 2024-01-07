@@ -1,4 +1,4 @@
-# Ethan Connelly - Full Stack Software Engineer
+# Ethan Connelly - Full Stack Dev
 
 🌏 London/Bangkok | 📧 ethanmconnelly@gmail.com
 
