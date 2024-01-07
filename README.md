@@ -30,8 +30,8 @@ As a Full Stack Developer with over four years of experience, I have a deep pass
 
 ## Work Experience
 
-- **Software/Research Engineer** at Nabrio Co., Ltd (October 2020 - Present)
-- **Full stack developer** at WeAreEight Ltd.
+- **Software/Research Engineer** at Nabrio Co., Ltd (October 2020 - March 2023)
+- **Full stack developer** at WeAreEight Ltd. (April 2023 - January 2024)
 
 ## Education
 
