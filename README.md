@@ -16,7 +16,7 @@ As a Full Stack Developer with over four years of experience, I have a deep pass
 
 ## Personal projects
 
-- **[AnalyseDocs.com](https://analysedocs.com) **: A web application that utilizes RAG and chat functionality to interact with documents via GPT.
+- [AnalyseDocs.com](https://analysedocs.com): A web application that utilizes RAG and chat functionality to interact with documents via GPT.
 
 ## Technical Skills
 
