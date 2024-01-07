@@ -1,6 +1,6 @@
 # Ethan Connelly - Full Stack Software Engineer
 
-🌏 London/Bangkok | 📞 07742564195 | 📧 ethanmconnelly@gmail.com
+🌏 London/Bangkok | 📧 ethanmconnelly@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/ethanconnelly) | [Personal Site](https://www.emcshared.com) | [Twitter](https://twitter.com/Ethan_Connelly)
 
