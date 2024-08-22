@@ -1,6 +1,6 @@
 # Ethan Connelly
 
-🌏 London/Bangkok | 📧 ethanmconnelly@gmail.com
+🌏 London / Remote | 📧 ethanmconnelly@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/ethanconnelly) | [Personal Site](https://www.emcshared.com) | [Twitter](https://twitter.com/Ethan_Connelly)
 
