@@ -3,30 +3,3 @@
 🌏 London / Remote | 📧 ethanmconnelly@gmail.com
 
 [LinkedIn](https://www.linkedin.com/in/ethanconnelly) | [Personal Site](https://www.emcshared.com) | [Twitter](https://twitter.com/Ethan_Connelly)
-
-## About Me
-
-As a Full Stack Developer with over four years of experience, I have a deep passion for crafting solutions using AI. My expertise lies in Python and TypeScript, and I am dedicated to honing my skills to deliver outstanding products. I earned a first-class Master's degree in Physics from Loughborough University in 2019, further solidifying my technical foundation.
-
-## Technical Skills
-
-| Skill                | Technologies                                                                                                                                 |
-|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
-| Python               | FastAPI, Django, Keras, PyTorch, Jupyter Notebooks, NumPy, SciPy, Matplotlib, Pandas, Onnx, OpenCV, Pytest, and more.         |
-| JavaScript/TypeScript | React.js, Next.js, Redux, RTK-toolkit, Node.js, Electron, Shadcn, Mantine UI, Ant Design, and more.                                 |
-| C++                  | OpenCV, key-point detection, face recognition, and license plate detection.                                                                 |
-| DevOps               | pytest, jest, supertest, Docker, Git, GitHub, Conda, VScode, AWS, Cloudflare, vercel, and Heroku.                                                   |
-| Databases            | DynamoDB, SQL, Django ORM, Postgres, supabase                                                                                                              |
-
-## Work Experience
-
-- **Software/Research Engineer** at Nabrio Co., Ltd (October 2020 - March 2023)
-- **Full stack developer** at WeAreEight Ltd. (April 2023 - January 2024)
-
-## Education
-
-- **Master of Physics** - Loughborough University (First-class degree with honors)
-
-## Other Qualifications
-
-- **Data Science with TensorFlow 2** (Udemy)
